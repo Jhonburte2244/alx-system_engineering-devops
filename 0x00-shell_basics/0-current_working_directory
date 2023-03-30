@@ -1,6 +1,4 @@
 #!/bin/bash
 pwd
-0current_working_directory
-:WQ
-y
+0-current_working_directory
 
